@@ -1,7 +1,7 @@
 ---
 title: 进入新系统，我要干什么？
 date: 2025-05-24T00:22:21+08:00
-draft: true
+draft: false
 categories:
   - 我得
 image: 

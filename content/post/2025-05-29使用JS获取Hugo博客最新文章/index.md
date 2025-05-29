@@ -1,7 +1,7 @@
 ---
 title: 使用JS获取Hugo博客最新文章
 date: 2025-05-29T14:16:54+08:00
-draft: true
+draft: false
 categories:
   - 我思
 image: 

@@ -1,7 +1,7 @@
 ---
 title: 使用vue制作打字机效果
 date: 2025-05-29T15:46:56+08:00
-draft: true
+draft: false
 categories:
   - 我得
 image: 
