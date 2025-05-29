@@ -1203,8 +1203,8 @@ module.exports = async function(context, req) {
 
 然后跟着我设置：
 
-![](image.webp)
-![](image-1.webp)
+![](content/post/2025-05-04如何把我的博客变成你的博客/image.webp)
+![](content/post/2025-05-04如何把我的博客变成你的博客/image-1.webp)
 
 随便填个名称，然后点击设置
 
