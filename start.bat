@@ -34,7 +34,7 @@ git commit -m "%commit_message%"
 echo 已提交更改
 
 :: 推送更改
-git push web main
+git push github main
 git push myserver main 
 
 

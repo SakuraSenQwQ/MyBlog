@@ -29,7 +29,7 @@ tags:
 
 通过直接打开地址会发现
 
-![](content/post/2025-05-29使用JS获取Hugo博客最新文章/index.png)
+![](2025-05-29使用JS获取Hugo博客最新文章/index.png)
 
 请求了100kB，很难接受。
 

@@ -13,7 +13,7 @@ slug: index
 
 如你所见，我写了一个[引导页](https://sakurasen.cn/)~
 
-![](content/post/2025-05-18网站引导页/image.webp)
+![](image.webp)
 
 背景来源于[Steam 创意工坊::\[Parallax Webpage\] Mountains视差交互效果动态壁纸](https://steamcommunity.com/sharedfiles/filedetails/?id=2017180584)
 
@@ -25,7 +25,7 @@ slug: index
 
 ## 手机端
 
-![](content/post/2025-05-18网站引导页/image-1.webp)
+![](image-1.webp)
 仿照了X，写了一个这个。
 
 还不错？
