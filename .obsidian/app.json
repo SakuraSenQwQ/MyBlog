@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "shortest",
+  "promptDelete": false
+}

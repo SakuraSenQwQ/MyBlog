@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "00ef35f589f1eafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6289a00936af320a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b822bee0aec7f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/spec/about.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "295e6b0d0ae0bdf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da82b742a8d1a43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fdb1f4f75fd5509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c97fb9a177010a57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f25513c18e466158",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70034a8526be1f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "082638d8250a0b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caa13fc55603ff2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/spec/about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "about 的反向链接列表"
+            }
+          },
+          {
+            "id": "42a0c716328d34b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "7b5b52e48b62f600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cb9e860fd80f8f63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/spec/about.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "about 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1b822bee0aec7f03",
+  "lastOpenFiles": [
+    "dist/_astro/98841678_p0.BSSESabe_Z1EaKx6.webp",
+    "dist/_astro/111093721_p0_master1200.BytYPQFp_Z25a5j0.webp",
+    "dist/_astro/roboto-latin-500-normal.CkrA1NAy.woff2",
+    "dist/_astro/roboto-latin-400-normal.CNwBRw8h.woff2",
+    "dist/_astro/roboto-latin-700-normal.DZr4b_KL.woff2",
+    "dist/_astro/demo-banner.WD4SMgz__Z1sm1Sh.webp",
+    "dist/_astro/image.CfARmY8t_jLKHs.webp",
+    "dist/_astro/about.BtniRLn_.css",
+    "dist/_astro/_page_.BaLQRSsF.css",
+    "dist/_astro/_page_.CXMlon_K.css",
+    "dist/index.html",
+    "src/content/spec/copyright.md",
+    "src/assets/images/124383634_p0.jpg",
+    "src/assets/images/125116295_p0.jpg",
+    "src/assets/images/104940868_p0.png",
+    "src/assets/images/128928432_p0.jpg",
+    "src/content/posts/20250605114401/index.md",
+    "src/pages/copyright.astro",
+    "src/pages/about - 副本.astro",
+    "src/content/copyright.md",
+    "src/content/新建 文本文档.txt",
+    "src/pages/copyright.md",
+    "src/content/pages/copyright.md",
+    "src/content/pages/copyright/copyright.md",
+    "src/content/posts/copyright/copyright.md",
+    "dist/_astro/image-1.hVVBNm6M.webp",
+    "dist/_astro/t0125f9a5597f29ab7b.Orm1Fy5c.jpg",
+    "dist/_astro/updata封面.C9FEnlhu.png",
+    "node_modules/marked-highlight/README.md",
+    "node_modules/recaptcha-v3/README.md",
+    "node_modules/@vue/compiler-sfc/README.md",
+    "node_modules/vue/README.md",
+    "node_modules/@vue/compiler-dom/README.md",
+    "node_modules/@types/web-bluetooth/README.md",
+    "node_modules/recaptcha-v3/CHANGELOG.md",
+    "node_modules/@vueuse/core/README.md",
+    "node_modules/marked/man/marked.1.md",
+    "node_modules/csstype/README.md",
+    "node_modules/@vue/compiler-core/README.md",
+    "node_modules/marked/README.md",
+    "node_modules/@vue/server-renderer/README.md",
+    "node_modules/marked/LICENSE.md",
+    "node_modules/@vue/reactivity/README.md",
+    "node_modules/@vue/runtime-core/README.md",
+    "node_modules/@vue/compiler-ssr/README.md",
+    "node_modules/@vue/shared/README.md"
+  ]
+}
