@@ -2,7 +2,7 @@
 import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
-
+import firefly from "@/components/firefly.astro";
 import { profileConfig, siteConfig } from "@/config";
 import ConfigCarrier from "@components/ConfigCarrier.astro";
 import {
@@ -110,7 +110,9 @@ const bannerOffset =
 		))}
 
 		<!-- Set the theme before the page is rendered to avoid a flash -->
+		<script  src="https://sakurasen.cn/cdn/live2d.js"></script>
 		<script is:inline define:vars={{DEFAULT_THEME, LIGHT_MODE, DARK_MODE, AUTO_MODE, BANNER_HEIGHT_EXTEND, PAGE_WIDTH, configHue}}>
+		
 			// Load the theme from local storage
 			const theme = localStorage.getItem('theme') || DEFAULT_THEME;
 			switch (theme) {
@@ -148,15 +150,17 @@ const bannerOffset =
 		<link rel="alternate" type="application/rss+xml" title={profileConfig.name} href={`${Astro.site}rss.xml`}/>
 
 	</head>
+	
 	<body class=" min-h-screen transition " class:list={[{"lg:is-home": isHomePage, "enable-banner": enableBanner}]}
 		  data-overlayscrollbars-initialize
 	>
 		<ConfigCarrier></ConfigCarrier>
 		<slot />
-
+		<div id="hh"></div>
 		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
 	</body>
+
 </html>
 
 <style is:global define:vars={{
@@ -564,4 +568,44 @@ if (window.swup) {
 } else {
 	document.addEventListener("swup:enable", setup)
 }
+</script>
+<script>
+window.addEventListener("load", (event) => {
+  OML2D.loadOml2d({
+	sayHello:false,
+    parentElement:document.getElementById("hh"),
+	  menus: {
+    disable:true
+  },
+    models: [
+      {
+        path: '/Firefly-desktop/Firefly.model3.json',
+        position: [0, 60],
+        stageStyle:{
+            height: 310,
+            position:"relative",
+			transform:"",
+        },
+        scale: 0.08,
+      }
+    ],
+    tips:{
+		disable:true,
+    welcomeTips:{
+                            message: {
+daybreak: "早上又来了……哈……太阳真吵。你醒着吗？不许丢下我一个人。",  
+morning: "上午了，你是不是又坐着一动不动？……别让我担心啊，笨蛋。",
+noon: "中午……你吃饭了吗？别拿工作当借口……我才不是在唠叨。",
+afternoon: "午后好困啊……要是能靠着你打个盹就好了……才不是撒娇，你别想多。",
+dusk: "天快黑了。你今天有没有想我……一次也好，说出来听听？",
+night: "晚上了……我累了一天，只想听你说一句：‘我在。’可以吗？",
+lateNight: "你还不睡，是不是等我说晚安？……嗯，晚安，必须做个梦，梦到我。",
+weeHours: "凌晨了啊……你是不是又在偷偷卷？再不睡，我要骂你了……真的。"
+
+                }
+        }
+    }
+  });
+});
+
 </script>

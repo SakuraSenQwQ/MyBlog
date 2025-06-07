@@ -18,7 +18,23 @@
         }
     }
 }
-
+#hh{
+  position: fixed;
+  bottom: -1em;
+  pointer-events: none;
+  left: 0;
+  /* 可选样式 */
+  z-index: 9999;
+  padding: 10px;
+}
+#oml2d-tips{
+    display: none!important;
+}
+@media (width < 1350px) {
+    #hh{
+        display: none;
+    }    
+}
 .wl-editor:focus, .wl-input:focus,.wl-addr,.wl-panel{
     background-color: var(--page-bg)!important;
 }
