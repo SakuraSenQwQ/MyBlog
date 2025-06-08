@@ -6,6 +6,9 @@
     width: 4em!important;
     height: 4em!important;
 }
+* {
+  font-family: 'Noto Serif SC', serif;
+}
 #com{
     .wl-count,.wl-reaction-title,.wl-editor,.wl-input{
         color: var(--primary);
