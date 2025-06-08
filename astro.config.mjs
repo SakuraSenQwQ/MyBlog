@@ -26,7 +26,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 import rehypeExternalLinks from 'rehype-external-links';
 // https://astro.build/config
 export default defineConfig({
-	site: "https://fuwari.vercel.app/",
+	site: "https://blog.sakurasen.cn/",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
