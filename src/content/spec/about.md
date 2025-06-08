@@ -2,7 +2,7 @@
 
 # 我？
 
-https://sakurasen.cn
+https://sakurasen.cn/
 
 # 使用素材
 除文章外所有使用的素材出处
