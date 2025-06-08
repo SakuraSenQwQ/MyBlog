@@ -163,6 +163,7 @@ export default defineConfig({
 	},
 	vite: {
 		build: {
+			inlineStylesheets: `never`,
 			rollupOptions: {
 				onwarn(warning, warn) {
 					// temporarily suppress this warning
