@@ -16,7 +16,6 @@ https://sakurasen.cn
 [流萤前瞻小人，今日进度！](https://www.bilibili.com/video/BV1kJ4m1g7fs/?share_source=copy_web&vd_source=722c59ae589c4dd7c2cc954ecad0ae89)
 
 # 友情链接
-
 [SakuraSen'sBlog](https://sakurasen.cn) 无限进步
 
 
