@@ -19,8 +19,6 @@ https://sakurasen.cn
 [SakuraSen'sBlog](https://sakurasen.cn) 无限进步
 
 
-
-
 ## 申请友链
 
 :::tip[如何申请]
