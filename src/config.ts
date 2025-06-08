@@ -77,7 +77,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/SakuraSenQwQ/Index/",
+			url: "https://github.com/SakuraSenQwQ",
 		},
 		{
 			name: "Email",
