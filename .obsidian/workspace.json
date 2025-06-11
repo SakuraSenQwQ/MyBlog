@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/20250609020351/index.md",
+                "file": "src/content/spec/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/20250609020351/index.md",
+                "file": "src/content/spec/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "about 的大纲"
             }
           }
         ],
@@ -170,6 +170,10 @@
   },
   "active": "1b822bee0aec7f03",
   "lastOpenFiles": [
+    "src/content/spec/about-1749650256432.png",
+    "src/content/spec/about-1749650241874.png",
+    "src/content/spec/about-1749650178725.png",
+    "src/content/posts/20250605114401/index.md",
     "src/content/spec/about.md",
     "src/content/posts/20250609020351/index.md",
     "src/content/posts/20250609020351",
@@ -189,7 +193,6 @@
     "src/assets/images/125116295_p0.jpg",
     "src/assets/images/104940868_p0.png",
     "src/assets/images/128928432_p0.jpg",
-    "src/content/posts/20250605114401/index.md",
     "src/pages/copyright.astro",
     "src/pages/about - 副本.astro",
     "src/content/copyright.md",
@@ -197,8 +200,6 @@
     "src/content/pages/copyright.md",
     "src/content/pages/copyright/copyright.md",
     "src/content/posts/copyright/copyright.md",
-    "dist/_astro/image-1.hVVBNm6M.webp",
-    "dist/_astro/t0125f9a5597f29ab7b.Orm1Fy5c.jpg",
     "node_modules/marked-highlight/README.md",
     "node_modules/recaptcha-v3/README.md",
     "node_modules/@vue/compiler-sfc/README.md",
@@ -214,7 +215,6 @@
     "node_modules/@vue/server-renderer/README.md",
     "node_modules/marked/LICENSE.md",
     "node_modules/@vue/reactivity/README.md",
-    "node_modules/@vue/runtime-core/README.md",
-    "node_modules/@vue/compiler-ssr/README.md"
+    "node_modules/@vue/runtime-core/README.md"
   ]
 }
