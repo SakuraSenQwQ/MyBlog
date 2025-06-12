@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/spec/about.md",
+                "file": "src/content/posts/STBOT/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/spec/about.md",
+                "file": "src/content/posts/STBOT/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "about 的大纲"
+              "title": "index 的大纲"
             }
           }
         ],
@@ -170,8 +170,10 @@
   },
   "active": "1b822bee0aec7f03",
   "lastOpenFiles": [
-    "src/content/posts/friendlink/index.md",
     "src/content/spec/about.md",
+    "src/content/posts/STBOT/index.md",
+    "src/content/posts/STBOT",
+    "src/content/posts/friendlink/index.md",
     "src/content/posts/friendlink",
     "src/content/spec/about-1749650256432.png",
     "src/content/spec/about-1749650241874.png",
@@ -194,7 +196,6 @@
     "src/assets/images/124383634_p0.jpg",
     "src/assets/images/125116295_p0.jpg",
     "src/assets/images/104940868_p0.png",
-    "src/pages/copyright.astro",
     "src/content/copyright.md",
     "src/pages/copyright.md",
     "src/content/pages/copyright.md",
@@ -214,7 +215,6 @@
     "node_modules/marked/README.md",
     "node_modules/@vue/server-renderer/README.md",
     "node_modules/marked/LICENSE.md",
-    "node_modules/@vue/reactivity/README.md",
-    "node_modules/@vue/runtime-core/README.md"
+    "node_modules/@vue/reactivity/README.md"
   ]
 }
