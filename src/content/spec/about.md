@@ -9,9 +9,7 @@ https://sakurasen.cn/
 
 ## 网站
 
-- 友情链接
-![](about-1749650241874.png)
-![](about-1749650256432.png)
+- ~~友情链接~~ 已完成（[https://sakurasen.cn/friends](https://sakurasen.cn/friends))
 # 使用素材
 除文章外所有使用的素材出处
 ## 头像
