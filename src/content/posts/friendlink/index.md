@@ -1,9 +1,9 @@
 ---
 title: 友情链接
 published: 2025-06-12
-description: 
-image: ""
-tags: [友情链接]
+description: 自己写了个友情链接~
+tags:
+  - 友情链接
 category: 我得
 draft: false
 lang: zh-CN
