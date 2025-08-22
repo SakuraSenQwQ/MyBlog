@@ -71,7 +71,7 @@ async function executeCommand() {
 
     const fileName = "index.md";
 
-    const { stdout, stderr } = await exec('npm run new-post -- ' + getCreateTimeAsFileName() + '/' + fileName, { cwd: app.fileManager.vault.adapter.basePath });
+    const { stdout, stderr } = await exec('pnpm run new-post ' + getCreateTimeAsFileName() + '/' + fileName, { cwd: app.fileManager.vault.adapter.basePath });
 
     console.log('stdout:', stdout);
 
