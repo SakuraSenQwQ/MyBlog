@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd462b07c89a702a",
+            "id": "259d4b7edae3a6fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/20250822222353/index.md",
+                "file": "src/content/posts/20250828025102/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/20250822222353/index.md",
+                "file": "src/content/posts/20250828025102/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,21 +169,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd462b07c89a702a",
+  "active": "259d4b7edae3a6fb",
   "lastOpenFiles": [
-    "src/content/posts/20250811222227/index.md",
+    "src/content/posts/20250828025102/index-1756321559360.png",
+    "src/content/posts/20250828025102/index-1756321502082.png",
+    "src/content/posts/20250828025102/index-1756321331082.png",
+    "src/content/posts/20250828025102/index-1756320878144.png",
+    "src/content/posts/20250828025102/index.md",
+    "src/content/posts/20250828025102",
+    "src/content/posts/20250826174744/index-1756201983156.png",
+    "src/content/posts/20250826174744/index-1756201887856.png",
+    "src/content/posts/20250826174744/index-1756201838146.png",
     "src/content/posts/20250822222353/index.md",
+    "src/content/posts/20250826174744/index.md",
+    "src/content/posts/20250826174744",
+    "src/content/posts/20250811222227/index.md",
     "src/content/posts/20250822222353",
     "src/content/posts/20250811222227/index-1754923335173.png",
     "src/content/posts/20250811222227/index-1754923298235.png",
     "src/content/posts/20250811222227/index-1754923237864.png",
     "src/content/posts/20250811222227/index-1754923165801.png",
-    "src/content/posts/20250811222227/index-1754923113336.png",
-    "src/content/posts/20250811222227/index-1754922996505.png",
-    "src/content/posts/20250811222227/index-1754922877241.png",
-    "src/content/posts/20250811222227/index-1754922864026.png",
-    "src/content/posts/20250811222227/index-1754922860017.png",
-    "src/content/posts/20250811222227/index-1754922825118.png",
     "src/content/posts/20250810151342/index.md",
     "src/content/posts/20250811222227",
     "src/content/posts/20250729144304/index.md",
@@ -197,8 +202,6 @@
     "node_modules/extract-zip/readme.md",
     "node_modules/extract-zip/package.json",
     "node_modules/extract-zip/LICENSE",
-    "node_modules/extract-zip/index.js",
-    "node_modules/extract-zip/index.d.ts",
     "node_modules/source-map-js/README.md",
     "node_modules/smol-toml/README.md",
     "node_modules/sourcemap-codec/README.md",
@@ -213,9 +216,6 @@
     "node_modules/side-channel-list/CHANGELOG.md",
     "node_modules/side-channel-map/README.md",
     "node_modules/side-channel-map/CHANGELOG.md",
-    "node_modules/sisteransi/readme.md",
-    "node_modules/shebang-regex/readme.md",
-    "node_modules/shelljs-live/README.md",
-    "node_modules/side-channel/README.md"
+    "node_modules/sisteransi/readme.md"
   ]
 }
